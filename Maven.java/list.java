@@ -55,6 +55,7 @@ public class Menu
             System.out.println("-----------------------------------------------------");
             System.out.println("General Cavazos Commander App");
             System.out.println("-----------------------------------------------------");
+	    break;
         }
     }
     }
