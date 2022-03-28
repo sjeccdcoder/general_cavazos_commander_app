@@ -25,6 +25,7 @@ public class Menu
             case 1 : //for Quit
             System.out.println("Press 1 to quit the app \n");
             System.out.println("Thank you General Cavazos!");
+	    break;
         }
     }
     }
