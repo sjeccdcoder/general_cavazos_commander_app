@@ -9,11 +9,11 @@ public class GeneralCavazos
         System.out.println("-----------------------------------------------------");
         System.out.println("General Cavazos Commander App");
         System.out.println("-----------------------------------------------------");
-        System.out.println("i: Issue a command");
-        System.out.println("l: List all the commands");
-        System.out.println("u: Undo the last command that was issued");
-        System.out.println("r: Redo the last command that was issued");
-        System.out.println("q: Quit");
+        System.out.println("1: Quit");
+        System.out.println("2: List all the commands");
+        System.out.println("3: Issue a command");
+        System.out.println("4: undo the last command that was issued");
+        System.out.println("5: Redo the last command");
         System.out.println("-----------------------------------------------------");
         System.out.println("Enter a command");
     }
